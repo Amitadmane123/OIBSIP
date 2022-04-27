@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Merriweather:wght@400;700&family=Source+Serif+Pro:wght@400;600;700&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -17,9 +17,9 @@ body {
 }
 h1 {
   font-size: 10vh;
-  color: #798f8f;
+  color: #4a010a;
   margin: 50px auto 0 auto;
-  font-family: 'Great Vibes', cursive;
+  font-family: 'MS Madi', cursive;
 }
 h2 {
   font-family: 'Merriweather', serif;
@@ -31,7 +31,7 @@ h3 {
 }
 /* hero page  */
 .top-container {
-  background-color: #e4f9f5;
+  background-color: #fd7394;
   position: relative;
   padding-top: 100px;
 }
@@ -51,7 +51,7 @@ h3 {
 /* middle container  */
 .profile {
   padding: 150px 0px;
-  background-color: #f4fcd9;
+  background-color: #50caf2;
 }
 .profile h2 {
   margin: 10px auto 10px auto;
@@ -78,7 +78,7 @@ h3 {
 /* skills */
 .skills {
   padding: 100px 100px;
-  background-color: #c5d8a4;
+  background-color: #00ff9f;
 }
 .skill-row {
   width: 50%;
@@ -99,7 +99,7 @@ h3 {
 /* Get In Touch Section*/
 .contact-me {
   padding: 150px 120px;
-  background-color: #bb9981;
+  background-color: #d600ff;
 }
 .contact-me h2 {
   padding: 40px 0;
